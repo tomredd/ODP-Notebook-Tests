@@ -10,6 +10,7 @@ If you are interested at looking at the original data source, it is available [h
 ## _coming soon_
 - _Geospatial tabular API interactions_
 - _Ingress and egress gridded data_
+- _Sharing your own data_
 - _Data on the platform_
 - _Running models_
 - _orchestration_
