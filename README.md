@@ -6,3 +6,8 @@ In these two notebooks, we test transforming some data from the Norwegian Fisker
 - [Playing with Production Data](https://github.com/tomredd/ODP-Notebook-Tests/blob/dcd8ad027eac8b5e9bead59cca1fe2218511ec92/Fiskeridirektoratet/Playing%20with%20Production%20Data.ipynb)
 
 If you are interested at looking at the original data source, it is available [here](https://www.fiskeridir.no/English/Aquaculture/Statistics/Atlantic-salmon-and-rainbow-trout/grow-out-production).
+
+## _coming soon_
+- _Geospatial tabular API interactions_
+- _Ingress and egress gridded data_
+- _Running models_
