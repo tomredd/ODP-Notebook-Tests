@@ -11,6 +11,6 @@ If you are interested at looking at the original data source, it is available [h
 - _Geospatial tabular API interactions_
 - _Ingress and egress gridded data_
 - _Sharing your own data_
-- _Interactinbg with data on the platform_
+- _Interacting with data on the platform_
 - _Running models_
 - _orchestration_
